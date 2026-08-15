@@ -5,12 +5,12 @@
 
 Все задания выполнены на учебных платформах.
 
-## 📚 Содержание
+## Содержание
 
 ### PortSwigger Web Security Academy
-- [SQL injection в WHERE clause - моя первая лаба](portswigger/sqli-where-clause.md) ✅
+- [SQL injection в WHERE clause - моя первая лаба](portswigger/sqli-where-clause.md) 
 
-## 🎯 Зачем я это делаю
+## Зачем я это делаю
 
 - Закрепляю материал
 - Учуся понятно объяснять технические вещи
