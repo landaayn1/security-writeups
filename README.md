@@ -8,7 +8,8 @@
 ## Содержание
 
 ### PortSwigger Web Security Academy
-- [SQL injection в WHERE clause - моя первая лаба](portswigger/sqli-where-clause.md) 
+- [SQL injection в WHERE clause - моя первая лаба](portswigger/sqli-where-clause.md)
+- [SQL injection vulnerability allowing login bypass - вход без пароля](portswigger/sqli-login-bypass.md)
 
 ## Зачем я это делаю
 
