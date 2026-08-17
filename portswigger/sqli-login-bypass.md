@@ -45,6 +45,9 @@
 
 *Итого*: administrator' --
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/221d36fb-d32e-4cd7-827b-5addb4fba91b" />
+
+
 И если посмотреть наш запрос, то он будет выглядеть как-то так:
 
 **SELECT * FROM users WHERE username = 'administrator' --*' AND password = 'hash([ВВОД])'***
@@ -53,6 +56,9 @@
 
 ## Результат
 Ввожу administrator' -- и пароль 1 - вижу успешный вход, и надпись "Congratulations, you solved the lab!"
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7cb3569d-a225-4d33-a7f9-7a8ece25aa45" />
+
 
 Лабораторная работа пройдена!
 
